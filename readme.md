@@ -6,7 +6,7 @@ Marketing Analytics Engineer | SQL · Python · Adobe/GA4 · Power BI
 
 **Question:** Where are the biggest untapped organic search opportunities?
 
-**Stack:** Python ETL from 4 APIs → cloud database → [BI tool]
+**Stack:** Python ETL from 4 APIs → cloud database → PowerBI
 
 **Outcome:** Revealed biggest keyword and page optimization opportunities
 
@@ -15,7 +15,7 @@ Marketing Analytics Engineer | SQL · Python · Adobe/GA4 · Power BI
 
 **Question:** How do paid and organic search work together?
 
-**Stack:** 4 sources unified via Python → MySQL → [BI tool]
+**Stack:** 4 sources unified via Python → MySQL → Looker Studio
 
 **Outcome:** Allowed us to recalibrate paid search spending to ensure holistic coverage as SEO went up or waned
 
@@ -24,6 +24,6 @@ Marketing Analytics Engineer | SQL · Python · Adobe/GA4 · Power BI
 
 **Question:** Which channels and pages drive leads and pipeline?
 
-**Stack:** GA4 + CRM → MySQL → [BI tool]
+**Stack:** GA4 + CRM → MySQL → PowerBI
 
 **Outcome:** Identifying highest converting channels and pages to focus CRO efforts on
